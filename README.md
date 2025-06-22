@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ginasoft/ginasoft/main/business-card.png" alt="Business Card" width="400"/>
 </p>
----
 
 ## 👩‍💻 About Me
 
