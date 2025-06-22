@@ -31,7 +31,6 @@ As the founder of FoxStudio, I also create custom digital solutions for clients�
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nataliacuellas)  
-- 🐙 My second GitHub: [@cuellasng](https://github.com/cuellasng)  
 - 🖥️ Website: [foxstudio.com.ar](https://foxstudio.com.ar)  
 - 📬 Email: info@foxstudio.com.ar  
 
