@@ -1,16 +1,13 @@
 ## Hi there, I'm Nati 👋
 
 👩‍💻  IT Systems Analyst & Application Developer <br> 
-🧠 AI Engineer | Tech Lead @ [FoxStudio](https://foxstudio.com.ar) 
-🌱 Lifelong Learner <br>
+🧠 AI Engineer | Tech Lead @ [FoxStudio](https://foxstudio.com.ar) <br>
 🌎 Based in Argentina 
 
+📬  [Contact Me](#connect-with-me)
 <p align="center">
   <img src="https://raw.githubusercontent.com/ginasoft/ginasoft/main/business-card.png" alt="Business Card" width="400"/>
 </p>
-
-📬  [Contact Me](#contact)
- 
 ---
 
 ## 👩‍💻 About Me
@@ -31,7 +28,7 @@ As the founder of FoxStudio, I also create custom digital solutions for clients�
 - Learning **RAG pipelines** and **agent orchestration techniques**  
 
 ---
-<a name="contact"></a>
+<a name="connect-with-me"></a>
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nataliacuellas)  
@@ -39,10 +36,6 @@ As the founder of FoxStudio, I also create custom digital solutions for clients�
 - 🖥️ Website: [foxstudio.com.ar](https://foxstudio.com.ar)  
 - 📬 Email: info@foxstudio.com.ar  
 
----
-
-> *"Tech is not just about code — it’s about solving real problems."*  
-> — Natalia Cuellas
 <!--
 **ginasoft/ginasoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
