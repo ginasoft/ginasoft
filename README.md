@@ -1,7 +1,7 @@
 ## Hi there, I'm Nati 👋
 
 👩‍💻  IT Systems Analyst & Application Developer <br> 
-🧠 AI Engineer | Tech Lead @ [FoxStudio](https://foxstudio.com.ar) <br>  
+🧠 AI Engineer | Tech Lead @ [FoxStudio](https://foxstudio.com.ar) 
 🌱 Lifelong Learner <br>
 🌎 Based in Argentina 
 
