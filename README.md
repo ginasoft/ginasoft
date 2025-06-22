@@ -1,12 +1,15 @@
 ## Hi there, I'm Nati 👋
 
+👩‍💻  **Sr. IT Systems Analyst & Application Developer** 
+🧠 **AI Engineer | Tech Lead @ [FoxStudio](https://foxstudio.com.ar)**  
+🌱 Lifelong Learner
+🌎 Based in Argentina
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ginasoft/ginasoft/main/business-card.png" alt="Business Card" width="400"/>
 </p>
 
-🎯 **Sr. IT Systems Analyst & Application Developer**  
-🧠 **AI Engineer | Tech Lead @ [FoxStudio](https://foxstudio.com.ar)**  
-🌎 Based in Buenos Aires, Argentina
+📬 [Contact Me](#connect-with-me)
  
 ---
 
@@ -16,17 +19,16 @@ I lead software development projects that support automation, process optimizati
 
 As the founder of FoxStudio, I also create custom digital solutions for clients—ranging from mobile apps to full-scale web systems.
 
-My vision? To keep innovating through AI and emerging technologies, contributing to systems that make strategic decision-making smarter and faster.
+**My vision?** To keep innovating through AI and emerging technologies, contributing to systems that make strategic decision-making smarter and faster.
 
 ---
 
-## 💡 Interests & Focus
+## 🔮 My Ongoing Tech Adventure
 
-- Generative AI & Cloud Solutions  
-- Backend and Full Stack Development  
-- System Architecture & Security  
-- AI in Government & Public Sector  
-- Agile Methodologies & DevOps Fundamentals  
+- Exploring **Blockchain technologies**
+- Deepening my skills in **Generative AI** and **Cloud Solutions**  
+- Applying **AI in government & public sector** systems  
+- Learning **RAG pipelines** and **agent orchestration techniques**  
 
 ---
 
@@ -39,7 +41,7 @@ My vision? To keep innovating through AI and emerging technologies, contributing
 
 ---
 
-> *"Technology, when guided with purpose, has the power to transform lives and shape a better future."*  
+> *"Tech is not just about code — it’s about solving real problems."*  
 > — Natalia Cuellas
 <!--
 **ginasoft/ginasoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
