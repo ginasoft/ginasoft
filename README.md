@@ -1,6 +1,8 @@
 ## Hi there, I'm Nati 👋
 
-![Business Card](https://raw.githubusercontent.com/ginasoft/ginasoft/main/business-card.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ginasoft/ginasoft/main/business-card.png" alt="Business Card" width="400"/>
+</p>
 
 🎯 **Sr. IT Systems Analyst & Application Developer**  
 🧠 **AI Engineer | Tech Lead @ [FoxStudio](https://foxstudio.com.ar)**  
