@@ -1,15 +1,15 @@
 ## Hi there, I'm Nati 👋
 
-👩‍💻  **Sr. IT Systems Analyst & Application Developer** 
-🧠 **AI Engineer | Tech Lead @ [FoxStudio](https://foxstudio.com.ar)**  
-🌱 Lifelong Learner
-🌎 Based in Argentina
+👩‍💻  IT Systems Analyst & Application Developer <br> 
+🧠 AI Engineer | Tech Lead @ [FoxStudio](https://foxstudio.com.ar) <br>  
+🌱 Lifelong Learner <br>
+🌎 Based in Argentina 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ginasoft/ginasoft/main/business-card.png" alt="Business Card" width="400"/>
 </p>
 
-📬 [Contact Me](#connect-with-me)
+📬  [Contact Me](#contact)
  
 ---
 
@@ -31,7 +31,7 @@ As the founder of FoxStudio, I also create custom digital solutions for clients�
 - Learning **RAG pipelines** and **agent orchestration techniques**  
 
 ---
-
+<a name="contact"></a>
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nataliacuellas)  
